@@ -18,7 +18,7 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: The paper provides empirical evidence using NLSY79 data that cognitive ability affects pregnancy timing and intention. Then, I build and estimate a life cycle model to measure the difference in contraception efficiency by cognitive ability and education. Women in the top ability quartile are four times more efficient using contraception. In addition, high school and college graduates have a 77% and 84% lower contraception costs than high school dropouts. Finally, I use the model to show that changes in ability can explain the effect of mandatory education reforms on teen and young adult pregnancies.
+abstract:  The paper provides empirical evidence using NLSY79 data that cognitive ability affects pregnancy timing and intention. Then, I build and estimate a life cycle model to measure the difference in contraception efficiency by cognitive ability and education. Women in the top ability quartile are four times more efficient using contraception than those in the bottom. In addition, high school and college graduates have a 77\% and 84\% lower contraception costs than high school dropouts. Finally, I use the model to show that changes in ability can explain the effect of mandatory education reforms on teen and young adult pregnancies. 
 
 # Summary. An optional shortened abstract.
 summary: 
