@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Agustin Diaz
+title: Agustin Diaz Casanueva
 
 # Full name (for SEO)
 first_name: Agustin 
-last_name: Diaz
+last_name: Diaz Casanueva
 
 # Status emoji
 status:
