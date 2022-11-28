@@ -26,10 +26,10 @@ bio: I am a PhD candidate in Economics at the University of Pennsylvania.
 
 # Interests to show in About widget
 interests:
-- Macroeconomics
-- Labor Economics
-- Family Economics
- 
+  - Macroeconomics
+  - Labor Economics
+  - Family Economics
+  
 
 # Education to show in About widget
 education:
@@ -69,5 +69,7 @@ email: 'andiaz@sas.upenn.edu'
 highlight_name: true
 ---
 
-I am a PhD candidate in Economics at the University of Pennsylvania.
+I am a PhD candidate in Economics at the University of Pennsylvania. My research focuses on Macroeconomics, Labor Economics, and Family Economics.
 {style="text-align: justify;"}
+
+  
