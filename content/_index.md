@@ -15,7 +15,7 @@ sections:
   - block: collection
     id: WorkingPapers
     content:
-      title: Working Papers
+      title: Work in Progress
       # text: |-
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).
