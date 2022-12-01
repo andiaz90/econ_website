@@ -30,7 +30,7 @@ tags:
 # links:
 # - name: ""
 #   url: ""
-url_pdf: uploads/FIGI_Paper.pdf
+#url_pdf: uploads/FIGI_Paper.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
