@@ -35,7 +35,7 @@ sections:
       text: 
       # Contact (add or remove contact options as necessary)
       email: andiaz@sas.upenn.edu
-      phone: 2676168132
+      phone: +1 267 616 8132
       address:
         street: 133 South 36th Street
         city: Philadelphia
