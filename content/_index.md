@@ -38,7 +38,7 @@ sections:
       phone: 2676168132
       address:
         street: 133 South 36th Street
-        city: Phialdelphia
+        city: Philadelphia
         region: PA
         postcode: '19104'
         country: United States
