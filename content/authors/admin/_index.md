@@ -65,7 +65,7 @@ social:
 email: 'andiaz@sas.upenn.edu'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
 I am a PhD candidate in Economics at the University of Pennsylvania. My research focuses on Macroeconomics, Labor Economics, and Family Economics.
