@@ -17,7 +17,7 @@ main:
   #   url: '#talks'
   #   weight: 40
   - name: Work In Progress
-    url: '#WorkingPapers'
+    url: '#WorkInProgress'
     weight: 50
   - name: Contact
     url: '#contact'
