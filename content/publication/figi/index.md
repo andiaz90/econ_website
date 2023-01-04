@@ -4,7 +4,7 @@ authors:
 - admin
 - Jagadeesh Gokhale
 - Kent A. Smetters
-date: "2022-11-01T00:00:00Z"
+date: "2022-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -30,7 +30,7 @@ tags:
 # links:
 # - name: ""
 #   url: ""
-#url_pdf: uploads/FIGI_Paper.pdf
+url_pdf: uploads/figi.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
