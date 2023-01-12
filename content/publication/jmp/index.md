@@ -1,8 +1,8 @@
 ---
-title: "Education, Cognitive Ability and Fertility Risk"
+title: "Cognitive Ability, Education, and Fertility Risk"
 authors:
 - admin
-date: "2022-11-07T00:00:00Z"
+date: "2023-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +18,7 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract:  The paper provides empirical evidence using NLSY79 data that cognitive ability affects pregnancy timing and intention. Then, I build and estimate a life cycle model to measure the difference in contraception efficiency by cognitive ability and education. Finally, I use the model to decompose the mechanism through mandatory education laws reduce adolescent and young adult pregnancies. 
+abstract:  The paper provides empirical evidence using NLSY79 data that cognitive ability affects pregnancy timing and intention. Then, I build and estimate a life cycle model to understand whether education groups' differences in opportunity cost and contraception efficiency explain this effect. I find that these mechanisms cannot explain why women in the lowest cognitive ability decile have nine times more pregnancies than those in the top. Finally, I use the model to show that policies that decrease contraception cost decrease early pregnancies but do not improve college attendance, as college is too costly for this group of women, even without a child. 
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -26,7 +26,7 @@ tags:
 
 
 #links:
-#url_pdf: uploads/cog_preg.pdf
+url_pdf: uploads/cog_preg.pdf
 
 
 # Featured image
