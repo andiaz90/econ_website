@@ -22,7 +22,7 @@ organizations:
     url:
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD candidate in Economics at the University of Pennsylvania.
+bio: I am a Ph.D. candidate in Economics at the University of Pennsylvania and a Senior Economist in the Economic Modeling Department at the Central Bank of Chile.
 
 # Interests to show in About widget
 interests:
@@ -32,7 +32,6 @@ interests:
   
 # Education to show in About widget
 education:
-  courses:
   - course: PhD in Economics
     institution: University of Pennsylvania
     year: 2023 (Expected)
@@ -68,7 +67,7 @@ email: 'andiaz@sas.upenn.edu'
 highlight_name: false
 ---
 
-I am a PhD candidate in Economics at the University of Pennsylvania. My research focuses on Macroeconomics, Labor Economics, and Family Economics.
+I am a Ph.D. candidate in Economics at the University of Pennsylvania and a Senior Economist in the Economic Modeling Department at the Central Bank of Chile. My research focuses on Macroeconomics, Labor Economics, and Family Economics.
 {style="text-align: justify;"}
 
   

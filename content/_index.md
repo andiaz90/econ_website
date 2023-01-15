@@ -13,16 +13,16 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
   - block: collection
-    id: workinprogress
+    id: workingpapers
     content:
-      title: Work in Progress
+      title: Working Papers
       # text: |-
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).
       #   {{% /callout %}}
       filters:
         folders:
-          - publication
+          - workingpapers
         exclude_featured: true
     design:
       columns: '2'

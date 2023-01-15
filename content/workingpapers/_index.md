@@ -1,5 +1,5 @@
 ---
-title: Work in Progress
+title: Working Papers
 cms_exclude: true
 
 # View.
