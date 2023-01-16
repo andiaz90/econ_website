@@ -22,7 +22,7 @@ sections:
       #   {{% /callout %}}
       filters:
         folders:
-          - workingpapers
+          - publication
         exclude_featured: true
     design:
       columns: '2'

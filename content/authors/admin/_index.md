@@ -32,6 +32,7 @@ interests:
   
 # Education to show in About widget
 education:
+  courses: 
   - course: PhD in Economics
     institution: University of Pennsylvania
     year: 2023 (Expected)
