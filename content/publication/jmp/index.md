@@ -18,7 +18,7 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract:  The paper provides empirical evidence using NLSY79 data that cognitive ability affects pregnancy timing and intention. Then, I build and estimate a life cycle model to understand whether education groups' differences in opportunity cost and contraception efficiency can explain this result. I find that these mechanisms cannot explain why women in the lowest cognitive ability decile have nine times more pregnancies than those in the top. Finally, I use the model to show that policies that decrease contraception costs decrease early pregnancies and improve women's welfare but do not improve teen mothers' college attendance, as college is too costly for this group of women, even without a teen pregnancy.
+abstract: The paper provides empirical evidence using NLSY79 data that cognitive ability affects pregnancy timing and intention. Then, I build and estimate a life cycle model to understand whether education groups' differences in opportunity cost and contraception efficiency can explain this result. I find that these mechanisms cannot explain why women in the lowest cognitive ability decile have nine times more teen pregnancies than those in the top. Finally, I use the model to show that policies that decrease contraception costs decrease early pregnancies and improve women's welfare but do not improve teen mothers' college attendance, as college is too costly for this group of women, even without a teen pregnancy.
 
 # Summary. An optional shortened abstract.
 summary: 
