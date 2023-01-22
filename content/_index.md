@@ -37,12 +37,12 @@ sections:
       email: andiaz@sas.upenn.edu
       # phone: +1 267 616 8132
       address:
-        street: 133 South 36th Street
-        city: Philadelphia
-        region: PA
-        postcode: '19104'
-        country: United States
-        country_code: US
+        street: Agustinas 1180
+        city: Santiago, Chile
+        region: 
+        postcode: P.C. 8340454
+        country: Chile
+        country_code: CL
       # Automatically link email and phone or display as text?
       autolink: true
     #   # Email form provider

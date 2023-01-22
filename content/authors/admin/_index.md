@@ -14,11 +14,13 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate in Economics
+role: PhD candidate in Economics and Economist at Central Bank of Chile
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Pennsylvania
+    url:
+  - name: Central Bank of Chile
     url:
 
 # Short bio (displayed in user profile at end of posts)
