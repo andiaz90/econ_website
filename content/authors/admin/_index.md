@@ -22,7 +22,7 @@ organizations:
     url:
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. candidate in Economics at the University of Pennsylvania and a Senior Economist in the Economic Modeling Department at the Central Bank of Chile.
+bio: I am a Ph.D. candidate in Economics at the University of Pennsylvania and an Economist in the Economic Modeling Department at the Central Bank of Chile.
 
 # Interests to show in About widget
 interests:
