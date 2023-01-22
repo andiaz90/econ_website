@@ -68,7 +68,7 @@ email: 'andiaz@sas.upenn.edu'
 highlight_name: false
 ---
 
-I am a Ph.D. candidate in Economics at the University of Pennsylvania and a Senior Economist in the Economic Modeling Department at the Central Bank of Chile. My research focuses on Macroeconomics, Labor Economics, and Family Economics.
+I am a Ph.D. candidate in Economics at the University of Pennsylvania and an Economist in the Economic Modeling Department at the Central Bank of Chile.
 {style="text-align: justify;"}
 
   
