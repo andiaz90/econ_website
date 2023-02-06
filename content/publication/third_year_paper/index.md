@@ -26,7 +26,7 @@ tags:
 
 
 #links:
-url_pdf: uploads/third_year_paper.pdf
+url_pdf: uploads/third_year.pdf
 
 
 # Featured image
