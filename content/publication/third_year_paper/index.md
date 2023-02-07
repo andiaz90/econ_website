@@ -1,5 +1,5 @@
 ---
-title: "Dynamic altruistic transfers, parent college support and college attainment"
+title: "Dynamic Altruistic Transfers, Parent College Support and College Attainment"
 authors:
 - admin
 date: "2020-05-01T00:00:00Z"
