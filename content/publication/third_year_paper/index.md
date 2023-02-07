@@ -2,7 +2,7 @@
 title: "Dynamic altruistic transfers, parent college support and college attainment"
 authors:
 - admin
-date: "2020-01-01T00:00:00Z"
+date: "2020-05-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
