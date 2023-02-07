@@ -18,7 +18,7 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: The paper studies how transfer and bequest between old parents and their adult children shape parents' college investment in their children. First, I study how parents adjust consumption when their adult children are richer or poorer relative to them. Second, I build and estimate an altruistically linked overlapping generation model with endogenous college decisions and incomplete markets in which parents and children interact strategically to quantify how future transfers to or from their children shape parents' savings, college support to their children, consumption, and children's college attainment, particularly between the low-skill children with high-income parents.
+abstract: The paper studies how transfer and bequest between old parents and their adult children shape parents' college investment. First, I study how parents adjust consumption when their adult children are richer or poorer relative to them. Second, I build and estimate an altruistically linked overlapping generation model with endogenous college decisions and incomplete markets in which parents and children interact strategically to quantify how future transfers to or from their children shape parents' savings, college support to their children, consumption, and children's college attainment, particularly between the low-skill children with high-income parents.
 
 # Summary. An optional shortened abstract.
 summary: 
