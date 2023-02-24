@@ -2,7 +2,7 @@
 title: "The Role of Parental Altruism on College Financial Support and Outcomes in Higher Education: A Dynasty Model Approach"
 authors:
 - admin
-date: "2020-05-01T00:00:00Z"
+date: "2023-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
