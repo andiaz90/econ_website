@@ -1,5 +1,5 @@
 ---
-title: "The Role of Parental Altruism on College Financial Support and Outcomes in Higher Education: A Dynasty Model Approach"
+title: "The Role of Parental Altruism in Parents Consumption, College Financial Support, and Outcomes in Higher Education"
 authors:
 - admin
 date: "2023-02-01T00:00:00Z"
