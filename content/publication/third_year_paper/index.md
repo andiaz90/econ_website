@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Altruistic Transfers, Parent College Support and College Attainment"
+title: "The Role of Parental Altruism on College Financial Support and Outcomes in Higher Education: A Dynasty Model Approach"
 authors:
 - admin
 date: "2020-05-01T00:00:00Z"
