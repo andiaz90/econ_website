@@ -2,7 +2,7 @@
 title: "Cognitive Ability, Education, and Fertility Risk"
 authors:
 - admin
-date: "2023-01-01T00:00:00Z"
+date: "2023-02-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +18,7 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: Women in the lowest cognitive ability quartile have nine times more teen pregnancies than those in the top quartile. In this paper, I provide empirical evidence using NLSY79 data about the importance of cognitive ability on pregnancy timing and intention. Next, I build and estimate a life cycle model to analyze whether higher opportunity costs and higher contraception efficiency by education explain the differences in fertility timing between high and low ability women. These mechanisms explain only half of the correlation between ability and teen pregnancy. In order to explain the data, I allow for heterogeneity in contraception efficiency by cognitive ability. Finally,  I use the model to show that policies that decrease contraception costs decrease early pregnancies and improve women's welfare but do not improve teen mothers' college attendance, as college is too costly for this group of women, even without a teen pregnancy.
+abstract: Teen pregnancy rates are nine times higher among women in the lowest cognitive ability quartile compared to those in the top quartile. This paper presents empirical evidence from the NLSY79 dataset on the relationship between cognitive ability, pregnancy timing, and intention. In addition, a life cycle model is developed and estimated to explore whether variations in opportunity in wage, marriage, and contraception efficiency by education account for the differences in fertility timing among women with different cognitive abilities. However, these mechanisms only account for half of the correlation between cognitive ability and teen pregnancy. Therefore, I add heterogeneity in contraception efficiency by cognitive ability to bridge this gap. The model reveals that policies that lower contraception costs reduce early pregnancies and enhance women's welfare. However, the model also shows that teen mothers' college attendance remains low, as college education is costly fow women from low ability women, even without a teen pregnancy.
 
 # Summary. An optional shortened abstract.
 summary: 
