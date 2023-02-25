@@ -2,7 +2,7 @@
 title: "Cognitive Ability, Education, and Fertility Risk"
 authors:
 - admin
-date: "2023-02-28T00:00:00Z"
+date: "2023-23-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
