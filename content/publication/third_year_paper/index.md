@@ -18,7 +18,7 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: This paper examines how parent-child interactions and altruism affect college financial support and outcomes. I analyze how parents adjust their consumption levels when their children's wealth changes and how children's consumption shocks affect parent consumption. I use a dynastic overlapped generations model to explore how future transfers from parents to children influence college graduation rates. I find that parent transfers reduce the cost of attending college but also lower children's college returns as attending college decreases future parents' transfers. Parent altruism increases college graduation rates for low-ability children with wealthy parents, which can explain most of the college graduation gap between low-ability children with wealthy and poor parents. Understanding parent-child interactions and altruism is crucial for comprehending college investment decisions and outcomes.
+abstract: This paper studies how parent-child interactions and altruism impact college financial support and outcomes. It analyzes how parents adjust their consumption levels based on their children's income and how children's consumption shocks affect parent consumption. Using a dynastic overlapped generations model, the study explores how future transfers from parents to children influence college graduation rates. The findings show that parent transfers reduce the cost of attending college, but also lower children's college returns. Altruism increases graduation rates for low-ability children with wealthy parents and explains most of the graduation gap between low-ability children with wealthy and poor parents.
 
 # Summary. An optional shortened abstract.
 summary: 
