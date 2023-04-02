@@ -34,12 +34,12 @@ sections:
       subtitle:
       text: 
       # Contact (add or remove contact options as necessary)
-      email: andiaz@sas.upenn.edu
+      email: adiaz@bcentral.cl
       # phone: +1 267 616 8132
       address:
         street: Agustinas 1180
         city: Santiago, Chile
-        region: 
+        region: Metropolitana
         postcode: P.C. 8340454
         country: Chile
         country_code: CL

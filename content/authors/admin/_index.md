@@ -17,11 +17,9 @@ superuser: true
 role: Economist at Central Bank of Chile
 
 # Organizations/Affiliations to show in About widget
-#organizations:
-#  - name: University of Pennsylvania
-#    url:
-#  - name: Central Bank of Chile
-#    url:
+organizations:
+  - name: Central Bank of Chile
+    url: https://www.bcentral.cl
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Ph.D. candidate in Economics at the University of Pennsylvania and currently work as an Economist in the Economic Modeling Department at the Central Bank of Chile. My research focuses on Macroeconomics, Labor Economics, and Family Economics.
