@@ -2,7 +2,7 @@
 title: "Cognitive Ability, Education, and Fertility Risk"
 authors:
 - admin
-date: "2023-03-01T00:00:00Z"
+date: "2023-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +18,7 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: Teen pregnancy rates are nine times higher among women in the lowest cognitive ability quartile compared to those in the top quartile. This paper presents empirical evidence from the NLSY79 dataset on the relationship between cognitive ability, pregnancy timing, and intention. In addition, a life cycle model is developed and estimated to explore whether variations in wage, marriage, and contraception efficiency by education account for the differences in fertility timing among women with different cognitive abilities. However, these mechanisms only account for half of the correlation between cognitive ability and teen pregnancy. Therefore, I add heterogeneity in contraception efficiency by cognitive ability to bridge this gap. The model reveals that policies that lower contraception costs reduce early pregnancies and enhance women's welfare. However, the model also shows that teen mothers' college attendance remains low, as college education is costly for low ability women, even without a teen pregnancy. Finally, I use NLSY97 data to study the decline in teen pregnancies during the '90s finding a reduction in the cost of contraception and attending college for women in this cohort relative to the NLSY79 cohort.
+abstract: Numerous studies have shown the link between cognitive ability, educational attainment, wages, and behavioral outcomes such as teen pregnancies. Simultaneously, education attainment and wages are key mechanisms for determining fertility. In this paper, I jointly study the relationship between cognitive ability, educational attainment, and wages to explain fertility. The paper presents empirical evidence on the relationship between cognitive skills, childbirth timing, and intention using NLSY79 data. In addition, a life cycle model is developed and estimated to show how wages, marriage, education outcomes, and contraception costs explain differences in fertility timing among women with different cognitive abilities. In order to explain the data, the model needs heterogeneous contraception costs by ability, which I interpret as evidence that cognitive ability affects fertility timing beyond education and opportunity cost. Finally, I use the model to analyze how decreasing contraception costs reduces early pregnancies and affects women's outcomes, finding that lower contraception costs do not increase college attendance, as these women are not attending college as it is too costly. Finally, I use NLSY97 data to study the decline in teen pregnancies during the '90s, finding that a reduction in the cost of contraception and an increase in college access for women in this cohort relative to the NLSY79 cohort explains most of the decline.
 
 # Summary. An optional shortened abstract.
 summary: 
