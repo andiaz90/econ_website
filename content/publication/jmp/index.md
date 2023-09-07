@@ -1,5 +1,5 @@
 ---
-title: "Cognitive Ability, Education, and Fertility Risk"
+title: "The Effect of Cognitive Skills on Fertility Timing"
 authors:
 - admin
 date: "2023-09-01T00:00:00Z"
