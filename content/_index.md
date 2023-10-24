@@ -27,6 +27,21 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: collection
+    id: workinprogress
+    content:
+      title: Work in Progress
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
+      filters:
+        folders:
+          - workinprogress
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation      
   - block: contact
     id: contact
     content:
