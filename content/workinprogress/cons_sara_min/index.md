@@ -8,8 +8,6 @@ date: "2023-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
-
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
@@ -27,9 +25,11 @@ summary:
 tags:
 
 
-# links:
-# - name: ""
-#   url: ""
+links:
+ - name: "Sara Casella"
+   url: "https://www.saracasella.com"
+ - name: "Min Kim"
+   url: "https://www.min-kim.net"
 #url_pdf: uploads/figi.pdf
 
 # Featured image
