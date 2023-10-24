@@ -20,7 +20,7 @@ main:
     url: '#workingpapers'
     weight: 40  
   - name: Work in Progress
-    url: '#workingprogress'
+    url: '#workinprogress'
     weight: 50
   - name: Contact
     url: '#contact'
