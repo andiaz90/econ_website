@@ -30,7 +30,7 @@ links:
  - name: "Sean McCrary"
    url: "https://www.seanmccrary.com"
  - name: "Kharis Sokolov"
-   #url: ""   
+   url: ""   
 
 
 #url_pdf: uploads/figi.pdf
