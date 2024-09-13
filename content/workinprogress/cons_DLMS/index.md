@@ -33,7 +33,7 @@ links:
    url: ""   
 
 
-#url_pdf: uploads/figi.pdf
+url_pdf: uploads/MCI.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
