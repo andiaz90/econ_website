@@ -32,7 +32,6 @@ links:
  - name: "Kharis Sokolov"
    url: ""   
 
-
 url_pdf: uploads/MCI.pdf
 
 # Featured image
