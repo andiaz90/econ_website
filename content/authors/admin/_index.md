@@ -58,7 +58,7 @@ social:
     link: '/#contact'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/agustindiaz
+    link: http://linkedin.com/in/agustin-diaz-70565b2a
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com
