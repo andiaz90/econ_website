@@ -8,7 +8,7 @@ date: "2023-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2023-01-01T00:00:00Z"
 
 links:
  - name: "Sean McCrary"

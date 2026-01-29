@@ -47,15 +47,16 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: 
+      text: |
+        Feel free to reach out if you'd like to discuss research or potential collaborations.
       # Contact (add or remove contact options as necessary)
       email: adiaz@bcentral.cl
       # phone: +1 267 616 8132
       address:
         street: Agustinas 1180
-        city: Santiago, Chile
-        region: Metropolitana
-        postcode: P.C. 8340454
+        city: Santiago
+        region: Región Metropolitana
+        postcode: '8340454'
         country: Chile
         country_code: CL
       # Automatically link email and phone or display as text?

@@ -22,13 +22,15 @@ organizations:
     url: https://www.bcentral.cl
 
 # Short bio (displayed in user profile at end of posts)
-bio: I currently work as an Economist in the Economic Modeling Department at the Central Bank of Chile. My research focuses on Macroeconomics, Labor Economics, and Family Economics.
+bio: Economist at the Central Bank of Chile specializing in macroeconomic modeling, labor markets, and family economics. PhD in Economics from the University of Pennsylvania.
 
 # Interests to show in About widget
 interests:
   - Macroeconomics
   - Labor Economics
   - Family Economics
+  - Consumption Insurance
+  - Fertility Dynamics
   
 # Education to show in About widget
 education:
@@ -54,6 +56,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/agustindiaz
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/andiaz90
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -62,13 +73,15 @@ social:
     link: uploads/resume_Agustin_Diaz.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'andiaz@sas.upenn.edu'
+email: 'adiaz@bcentral.cl'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-I currently work as an Economist in the Economic Modeling Department at the Central Bank of Chile. My research focuses on Macroeconomics, Labor Economics, and Family Economics
+I am an Economist at the Economic Modeling Department of the Central Bank of Chile, where I contribute to macroeconomic analysis and policy research. I hold a PhD in Economics from the University of Pennsylvania (2023).
+
+My research interests lie at the intersection of macroeconomics, labor economics, and family economics. My work examines consumption insurance, fertility dynamics, and labor market behavior, with a focus on understanding how households make decisions in response to economic shocks and policy changes.
 {style="text-align: justify;"}
 
   
