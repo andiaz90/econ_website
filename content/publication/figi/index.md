@@ -4,11 +4,9 @@ authors:
 - admin
 - Jagadeesh Gokhale
 - Kent A. Smetters
-date: "2022-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-12-01T00:00:00Z"
 
 links:
  - name: "Jagadeesh Gokhale"

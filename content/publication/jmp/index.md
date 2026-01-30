@@ -2,11 +2,9 @@
 title: "The Effect of Cognitive Skills on Fertility Timing"
 authors:
 - admin
-date: "2026-09-01T00:00:00Z"
 doi: ""
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2026-01-01T00:00:00Z"
+# Schedule page publish date (NOT publication's date).y
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
