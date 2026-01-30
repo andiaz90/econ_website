@@ -1,4 +1,5 @@
 ---
+weight: 1
 title: "Returns to College Majors and General Equilibrium"
 authors:
 - Francesco Agostinelli

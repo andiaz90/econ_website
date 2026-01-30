@@ -26,6 +26,9 @@ sections:
   - block: collection
     content:
       title: Work in Progress
+      sort_by: Weight
+      order: asc
+      count: 0
       filters:
         folders:
           - workinprogress

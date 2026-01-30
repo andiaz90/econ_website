@@ -1,4 +1,5 @@
 ---
+weight: 3
 title: "Flippers and the Business Cycle"
 authors:
 - admin

@@ -1,4 +1,5 @@
 ---
+weight: 5
 title: "Employer Concentration and Labor Market Power"
 authors:
 - Alvaro Castillo
