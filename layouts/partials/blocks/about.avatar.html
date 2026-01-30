@@ -1,0 +1,83 @@
+{{/* Custom About Block - Two Column Layout */}}
+
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+{{ $author := "" }}
+{{ if .author }}
+  {{ $author = .author }}
+{{ else }}
+  {{ $author = $block.content.username }}
+{{end}}
+
+{{ $person_page_path := (printf "/authors/%s" $author) }}
+{{ $person_page := site.GetPage $person_page_path }}
+{{ if not $person_page }}
+  {{ errorf "Could not find an author page at `%s`." $person_page_path }}
+{{end}}
+{{ $person := $person_page.Params }}
+{{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
+
+<div class="row" id="profile">
+  {{/* Left Column - Avatar */}}
+  <div class="col-12 col-md-4 text-center text-md-left mb-4 mb-md-0">
+    {{ if $avatar }}
+      {{ $avatar_image := $avatar.Fill "500x500 Center" }}
+      <img class="avatar-img" src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}"
+           style="width: 100%; max-width: 380px; height: auto; margin-top: 2rem;">
+    {{ end }}
+  </div>
+
+  {{/* Right Column - Info */}}
+  <div class="col-12 col-md-8">
+    <div class="portrait-title text-center text-md-left">
+      <h1>{{ $person_page.Title }}</h1>
+      {{ with $person.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
+      {{ range $person.organizations }}
+      <h3>
+        {{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}
+        <span>{{ .name }}</span>
+        {{ if .url }}</a>{{ end }}
+      </h3>
+      {{ end }}
+    </div>
+
+    <ul class="network-icon text-center text-md-left pl-0" aria-hidden="true" style="list-style: none; display: flex; justify-content: center; gap: 1rem; margin-top: 1rem;">
+      {{ range $person.social }}
+      {{ $pack := or .icon_pack "fas" }}
+      {{ $pack_prefix := $pack }}
+      {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+        {{ $pack_prefix = "fa" }}
+      {{ end }}
+      {{ $link := .link }}
+      {{ $scheme := (urls.Parse $link).Scheme }}
+      {{ $target := "" }}
+      {{ if not $scheme }}
+        {{ $link = .link | relLangURL }}
+        {{ if eq (path.Ext $link) ".pdf" }}{{ $target = "target=\"_blank\" rel=\"noopener\"" }}{{ end }}
+      {{ else if in (slice "http" "https") $scheme }}
+        {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+      {{ end }}
+      <li style="display: inline;">
+        <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}">
+          <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
+        </a>
+      </li>
+      {{ end }}
+    </ul>
+
+    {{ with ($block.content.text | emojify | markdownify) | default $person_page.Content }}
+    <div class="bio-text mt-3 text-center text-md-left">
+      {{ . }}
+    </div>
+    {{ end }}
+  </div>
+</div>
+
+<style>
+  @media (min-width: 768px) {
+    #profile .network-icon {
+      justify-content: flex-start !important;
+    }
+  }
+</style>

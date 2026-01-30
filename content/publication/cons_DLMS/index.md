@@ -5,9 +5,13 @@ authors:
 - Justin Franco Lam
 - Sean McCrary
 - Kharis Sokolov
+date: "2024-03-01T00:00:00Z"
 doi: ""
 
+show_date: false
+
 # Schedule page publish date (NOT publication's date).
+publishDate: "2024-03-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,15 +26,9 @@ publication_short: ""
 abstract: We explore the properties of the consumption pass-through estimator proposed by Heathcote, Storesletten and Violante (2014) (HSV) using simulated data from a standard incomplete-markets model with labor supply decision. We show that the HSV wage-to-consumption pass-through estimator has an upward bias in the presence of precautionary savings and the bias gets more severe when savings accumulate or when the persistence of the wage process deviates from the unit root assumption that underlies the method. On the other hand, HSV accurately captures consumption insurance via labor supply adjustment when the savings motive is switched off. Compared to the estimate of Blundell, Pistaferri and Preston (2008) (BPP), HSV performs better when there is no savings in the model, while BPP performs better when there is savings. The findings suggest that combining the two methods, such as using HSV for agents close to the borrowing constraint while applying BPP to agents away from the borrowing constraint, may yield more comprehensive consumption insurance estimates.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: "We compare consumption pass-through estimators and show that combining HSV and BPP methods yields more accurate consumption insurance estimates."
+
 tags:
-links:
- - name: "Justin Franco Lam"
-   url: "https://www.justinfrancolam.com"
- - name: "Sean McCrary"
-   url: "https://www.seanmccrary.com"
- - name: "Kharis Sokolov"
-   url: ""   
 
 url_pdf: uploads/MCI.pdf
 

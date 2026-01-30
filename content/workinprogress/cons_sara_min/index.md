@@ -4,9 +4,13 @@ authors:
 - admin
 - Sara Casella 
 - Min Kim
+date: "2023-01-01T00:00:00Z"
 doi: ""
 
+show_date: false
+
 # Schedule page publish date (NOT publication's date).
+publishDate: "2023-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,11 +29,6 @@ summary:
 tags:
 
 
-links:
- - name: "Sara Casella"
-   url: "https://www.saracasella.com"
- - name: "Min Kim"
-   url: "https://www.min-kim.net"
 #url_pdf: uploads/figi.pdf
 
 # Featured image

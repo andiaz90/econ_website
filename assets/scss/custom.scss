@@ -1,0 +1,29 @@
+// Custom styles
+
+// Avatar image - square, no border radius
+.avatar-img {
+  border-radius: 0 !important;
+  object-fit: cover;
+}
+
+// Also override any existing avatar classes
+.avatar {
+  border-radius: 0 !important;
+}
+
+// Profile section styling
+#profile {
+  .portrait-title {
+    h1 {
+      margin-bottom: 0.5rem;
+    }
+    h3 {
+      margin-bottom: 0.25rem;
+    }
+  }
+
+  .bio-text {
+    margin-top: 1rem;
+    line-height: 1.7;
+  }
+}

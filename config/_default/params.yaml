@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: 'Central Bank of Chile'
-    description: 'Agustin Diaz Casanueva - Economist at the Central Bank of Chile. Research in Macroeconomics, Labor Economics, and Family Economics.'
+    description: 'Agustin Diaz Casanueva - Economist. Research in macroeconomics, labor economics, and family economics. PhD from University of Pennsylvania.'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -73,7 +73,7 @@ features:
     branch: main
   avatar:
     gravatar: false
-    shape: circle
+    shape: square
   comment:
     provider: ''
     disqus:
@@ -106,6 +106,11 @@ extensions:
     local_backend: false
   academicons:
     enable: true
+
+# Publications
+
+publications:
+  date_format: ""
 
 # Security
 

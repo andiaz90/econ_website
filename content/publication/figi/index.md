@@ -4,15 +4,13 @@ authors:
 - admin
 - Jagadeesh Gokhale
 - Kent A. Smetters
+date: "2022-12-01T00:00:00Z"
 doi: ""
 
-# Schedule page publish date (NOT publication's date).
+show_date: false
 
-links:
- - name: "Jagadeesh Gokhale"
-   url: "https://www.cato.org/people/jagadeesh-gokhale"
- - name: "Kent A. Smetters"
-   url: "https://fnce.wharton.upenn.edu/profile/smetters/"
+# Schedule page publish date (NOT publication's date).
+publishDate: "2022-12-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,7 +25,8 @@ publication_short: ""
 abstract: We use the Penn Wharton Budget Model’s microsimulation of U.S. demographics projections to construct estimates of the U.S. federal fiscal and generational imbalances. The federal government’s fiscal imbalance (FI) calculated under current fiscal laws and purchases policies over the next 75 years equals \$93.8 trillion, which is 7.0 percent of the present value of projected GDP (PVGDP) over that time horizon. Calculated in perpetuity, FI equals \$202.9 trillion, which is 8.2 percent of PVGDP, also calculated in perpetuity. The FI/PVGDP ratio in perpetuity would be 9.4 percent under extension of provisions that are scheduled to expire under the Tax Cuts and Jobs Act of 2017.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: "We estimate the U.S. federal fiscal imbalance at $202.9 trillion in perpetuity using Penn Wharton Budget Model microsimulations."
+
 tags:
 
 

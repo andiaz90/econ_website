@@ -8,67 +8,29 @@ sections:
   - block: about.avatar
     id: about
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      # Override your bio text from `authors/admin/_index.md`?
       text:
+
   - block: collection
-    id: workingpapers
+    id: research
     content:
       title: Working Papers
-      # text: |-
-      #   {{% callout note %}}
-      #   Quickly discover relevant content by [filtering publications](./publication/).
-      #   {{% /callout %}}
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
-      columns: '2'
+      columns: '1'
       view: citation
+
   - block: collection
-    id: workinprogress
     content:
       title: Work in Progress
-      # text: |-
-      #   {{% callout note %}}
-      #   Quickly discover relevant content by [filtering publications](./publication/).
-      #   {{% /callout %}}
       filters:
         folders:
           - workinprogress
-        exclude_featured: true
+        exclude_featured: false
     design:
-      columns: '2'
-      view: citation      
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: |
-        Feel free to reach out if you'd like to discuss research or potential collaborations.
-      # Contact (add or remove contact options as necessary)
-      email: adiaz@bcentral.cl
-      # phone: +1 267 616 8132
-      address:
-        street: Agustinas 1180
-        city: Santiago
-        region: Región Metropolitana
-        postcode: '8340454'
-        country: Chile
-        country_code: CL
-      # Automatically link email and phone or display as text?
-      autolink: true
-    #   # Email form provider
-    #   form:
-    #     provider: netlify
-    #     formspree:
-    #       id:
-    #     netlify:
-    #       # Enable CAPTCHA challenge to reduce spam?
-    #       captcha: false
-    # design:
-    #   columns: '2'
+      columns: '1'
+      view: citation
 ---
