@@ -3,6 +3,7 @@ title: "Returns to College Majors and General Equilibrium"
 authors:
 - Francesco Agostinelli
 - Emilio Borghesan
+- admin
 - Jorge Rodriguez
 date: "2025-01-01T00:00:00Z"
 doi: ""
