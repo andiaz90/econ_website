@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: "Human Capital Misallocation and General Equilibrium Effects in Chile"
+title: "Human Capital Misallocation and General Equilibrium Effects"
 authors:
 - admin
 - Nadim Elayan-Balague
