@@ -17,7 +17,26 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "Early childbirth varies sharply with cognitive ability: in a nationally representative U.S. cohort, 69% of women in the lowest cognitive ability quartile have had a first birth before age 22, compared with 22% in the highest quartile. I estimate a dynamic life-cycle model of schooling, work, marriage, and contraceptive effort to ask whether standard opportunity-cost channels can account for this gradient. They cannot: a nested specification test rejects the hypothesis that opportunity costs alone explain the early-birth gap. Matching the data requires that cognitive ability also raises the effectiveness of contraceptive effort in reducing pregnancy risk—a mechanism absent from the existing structural fertility literature. Two counterfactuals illustrate its quantitative importance. First, equalizing contraceptive effectiveness to high-ability levels reduces pregnancies before age 22 by 50% and raises college attendance by 15%. Second, a cost-reduction policy that lowers aggregate early pregnancies by 10% generates welfare gains equivalent to 10% of lifetime consumption for the lowest ability quartile, but near-zero gains for the highest—reflecting that the binding constraint for disadvantaged women is contraceptive effectiveness, not cost."
+abstract: |
+  Early childbirth varies sharply with cognitive ability: in the National Longitudinal
+  Survey of Youth 1979 (NLSY79), 69% of women in the lowest cognitive ability quartile
+  have had a first birth before age 22, compared with 22% in the highest quartile. This
+  gradient is not an artifact of education sorting: within education groups, women with
+  lower cognitive ability experience significantly higher birth rates even when using the
+  same contraceptive method, and differences in method selection do not explain the
+  gradient. I develop and estimate a dynamic life-cycle model of schooling, work,
+  marriage, and contraceptive effort in which cognitive ability shifts the effectiveness of
+  fertility control—the rate at which effort translates into reduced birth risk—in
+  addition to standard opportunity-cost channels. The model without this mechanism
+  cannot replicate the observed ability gradient in early births: restricting effectiveness
+  to be equal across ability groups causes the model to underpredict the gradient by a
+  factor of five. Two counterfactuals illustrate the quantitative importance of this
+  channel. Equalizing fertility-control effectiveness to high-ability levels reduces births
+  before age 22 by 50% and increases college attendance by 15%. A cost-reduction policy
+  that lowers aggregate early births by 10% generates welfare gains equivalent to 9% of
+  lifetime consumption for the lowest ability quartile, but near-zero gains for the
+  highest—reflecting that the binding constraint for disadvantaged women is effective
+  fertility control, not cost.
 
 summary: "How do cognitive skills shape fertility timing? I estimate a life-cycle model showing that contraception frictions, not just opportunity costs, drive the ability gradient in teen childbearing."
 
