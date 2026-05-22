@@ -19,4 +19,8 @@
     {{ partial "page_links" (dict "page" $item "is_list" 1) }}
   </div>
   {{ end }}
+
+  {{ if $item.Params.abstract }}
+  <p style="margin-top: 0.5rem; margin-bottom: 0;">{{ $item.Params.abstract | markdownify }}</p>
+  {{ end }}
 </div>
