@@ -2,7 +2,7 @@
 title: "The Effect of Cognitive Skills on Fertility Timing"
 authors:
 - admin
-date: "2026-09-01T00:00:00Z"
+date: "2026-01-01T00:00:00Z"
 doi: ""
 
 show_date: false

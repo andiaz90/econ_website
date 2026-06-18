@@ -36,4 +36,13 @@ sections:
     design:
       columns: '1'
       view: citation
+
+  - block: markdown
+    id: teaching
+    content:
+      title: Teaching
+      text: |
+        **Macroeconomics I** (undergraduate) — Universidad de los Andes, 2026–present.
+    design:
+      columns: '1'
 ---

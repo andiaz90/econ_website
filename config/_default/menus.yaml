@@ -7,6 +7,9 @@ main:
   - name: Research
     url: '#research'
     weight: 20
+  - name: Teaching
+    url: '#teaching'
+    weight: 25
   - name: CV
     url: uploads/resume_Agustin_Diaz.pdf
     weight: 30
