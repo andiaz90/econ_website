@@ -1,5 +1,5 @@
 ---
-title: "College as a Commitment Device: Parental Altruism and the Samaritan's Dilemma"
+title: "Parental Altruism, the Samaritan's Dilemma, and the College Decision"
 authors:
 - admin
 date: "2025-01-01T00:00:00Z"
@@ -15,7 +15,7 @@ publication: ""
 publication_short: ""
 
 abstract: |
-  Why do parents invest so heavily in their children's college education? I argue that college is a commitment device against a Samaritan's dilemma: anticipating support, children under-save and over-consume, and college mitigates this by permanently raising the child's income, shrinking the states in which parents optimally transfer. Consistent with this, in matched parent-child data parents of college children consume more and transfer less often, with the consumption gain exceeding the fall in realized transfers—as if they release resources once they need no longer stand ready to help. I formalize the mechanism in a continuous-time dynastic model with endogenous college choice, estimated by the simulated method of moments. Lack of commitment lowers aggregate enrollment modestly on net, but the distortion's sign varies with ability and parental wealth: in-college support subsidizes attendance for low-ability children, while lifetime support insures those who forgo college. Yet the friction cannot be removed for free, because the distorting transfers also insure children against income risk. Welfare therefore rises only under full commitment—which eliminates the moral hazard while preserving insurance—not under implementable substitutes that sever it. The welfare effect of free college turns on the same distinction.
+  I study how parental altruism shapes investment in college. Altruistic parents support children when resources are low: this finances their college attainment, insures against income risk, and—because parents cannot commit to withholding it—creates a Samaritan's dilemma in which children under-save and over-consume. College disciplines the dilemma where cash cannot, by permanently raising the child's income. In matched parent-child data, parents of college children consume more and transfer less often. I quantify the mechanism in a continuous-time dynastic model estimated by simulated method of moments. Altruism raises attainment; the inability to commit distorts it unevenly—up for low-ability children, down for the higher-ability. But the transfers that create the dilemma also insure children, so severing the relationship to remove it leaves both parent and child worse off. The welfare effect of free college turns on the same distinction.
 
 summary:
 
