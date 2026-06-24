@@ -23,6 +23,10 @@ tags:
 
 url_pdf: uploads/Parental_Altruism_College_v1.pdf
 
+links:
+- name: Online Appendix
+  url: uploads/Parental_Altruism_College_Online_Appendix.pdf
+
 projects: []
 
 slides:
