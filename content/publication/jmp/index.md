@@ -1,5 +1,5 @@
 ---
-title: "The Effect of Cognitive Skills on Fertility Timing"
+title: "Cognitive Skills and the Timing of First Births"
 authors:
 - admin
 date: "2026-01-01T00:00:00Z"
@@ -18,19 +18,16 @@ publication: ""
 publication_short: ""
 
 abstract: |
-  In the NLSY79, 69% of women in the lowest cognitive ability quartile have a first
-  birth before age 22, compared with 22% in the highest. This gradient persists within
-  education groups and within contraceptive method, suggesting that neither education
-  sorting nor method selection fully accounts for it. I estimate a life-cycle model
-  in which cognitive ability shifts the effectiveness of fertility control, beyond standard
-  opportunity-cost channels. Restricting effectiveness to be equal across ability groups
-  causes the model to underpredict the ability–fertility gradient by a factor of five. Equalizing
-  effectiveness to high-ability levels reduces births before age 22 by 50% and raises
-  college attendance by 15%. A cost-reduction policy generates welfare gains of 10% of
-  lifetime consumption for the lowest ability quartile but near-zero gains for the highest,
-  suggesting that improving effectiveness matters more than reducing cost for disadvantaged women.
+  In the NLSY79, 63% of lowest-quartile AFQT women have a first birth before 22,
+  against 18% at the top. The gap is in unwanted births, opens in high school, survives
+  family background. A life-cycle model lets ability shift adherence—how reliably a
+  method is used—beyond wages and schooling. Common adherence is rejected: it
+  reproduces the early births, not that they are unintended. Equalizing adherence cuts
+  first births by 21 by 17%, worth 15% of lifetime consumption to the lowest quartile;
+  an equally effective price cut does least for the lowest quartile. A long-acting method
+  at Colorado's take-up reproduces the program's estimated effect.
 
-summary: "How do cognitive skills shape fertility timing? I estimate a life-cycle model showing that contraception frictions, not just opportunity costs, drive the ability gradient in teen childbearing."
+summary: "Why do first births come so much earlier for low-ability women? A life-cycle model in which cognitive ability shifts how reliably contraception is used, not just opportunity costs."
 
 featured: true
 
