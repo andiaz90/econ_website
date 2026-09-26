@@ -18,14 +18,14 @@ publication: ""
 publication_short: ""
 
 abstract: |
-  In the NLSY79, 63% of lowest-quartile AFQT women have a first birth before 22,
-  against 18% at the top. The gap is in unwanted births, opens in high school, survives
-  family background. A life-cycle model lets ability shift adherence—how reliably a
-  method is used—beyond wages and schooling. Common adherence is rejected: it
-  reproduces the early births, not that they are unintended. Equalizing adherence cuts
-  first births by 21 by 17%, worth 15% of lifetime consumption to the lowest quartile;
-  an equally effective price cut does least for the lowest quartile. A long-acting method
-  at Colorado's take-up reproduces the program's estimated effect.
+  Among U.S. women born 1957–64, 63% of the lowest cognitive-skill quartile give birth
+  before 22, against 18% of the highest. The gap is in unintended births, opens in high
+  school, survives family background. In a life-cycle model where skills shift
+  adherence—reliability of use—beyond wages and schooling, common adherence is rejected:
+  it fits neither first-birth timing by skill nor within-method failure. Equalizing
+  adherence cuts births by 21 by 16%, mostly for low-skill women; removing
+  contraception's cost does nearly as much, but its gains go to the high-skilled. A
+  long-acting method at Colorado's take-up has an effect the program's size.
 
 summary: "Why do first births come so much earlier for low-ability women? A life-cycle model in which cognitive ability shifts how reliably contraception is used, not just opportunity costs."
 
@@ -34,8 +34,13 @@ featured: true
 tags:
 
 
-#links:
 url_pdf: uploads/cog_preg.pdf
+
+links:
+- name: Online Appendix
+  url: uploads/cog_preg_Online_Appendix.pdf
+- name: Supplementary Material
+  url: uploads/cog_preg_Supplementary_Material.pdf
 
 
 # Featured image
