@@ -24,8 +24,8 @@ abstract: |
   adherence—reliability of use—beyond wages and schooling, common adherence is rejected:
   it fits neither first-birth timing by skill nor within-method failure. Equalizing
   adherence cuts births by 21 by 16%, mostly for low-skill women; removing
-  contraception's cost does nearly as much, but its gains go to the high-skilled. A
-  long-acting method at Colorado's take-up has an effect the program's size.
+  contraception's cost does nearly as much, but its gains go to the high-skilled. Adding
+  a long-acting method matches the fall in births Colorado's program achieved.
 
 summary: "Why do first births come so much earlier for low-ability women? A life-cycle model in which cognitive ability shifts how reliably contraception is used, not just opportunity costs."
 
