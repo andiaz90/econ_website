@@ -1,5 +1,8 @@
 ---
 title: Working Papers
+type: publication
+cascade:
+  type: publication
 cms_exclude: true
 
 # View.

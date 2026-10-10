@@ -20,7 +20,7 @@ sections:
       count: 0
       filters:
         folders:
-          - publication
+          - working-papers
           - workinprogress
         tag: 'Family and Fertility'
         exclude_featured: false
@@ -36,7 +36,7 @@ sections:
       count: 0
       filters:
         folders:
-          - publication
+          - working-papers
           - workinprogress
         tag: 'Education and Human Capital'
         exclude_featured: false
@@ -52,7 +52,7 @@ sections:
       count: 0
       filters:
         folders:
-          - publication
+          - working-papers
           - workinprogress
         tag: 'Macro and Labor Markets'
         exclude_featured: false

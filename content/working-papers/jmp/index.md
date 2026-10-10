@@ -16,7 +16,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: ""
+publication_short: "Working paper"
 
 abstract: |
   Among U.S. women born 1957–64, 63% of the lowest cognitive-skill quartile give birth

@@ -38,3 +38,18 @@ status = 200
 from = "/publication/figi/*"
 to = "/policy/figi/"
 status = 301
+
+[[redirects]]
+from = "/publication/jmp/*"
+to = "/working-papers/jmp/"
+status = 301
+
+[[redirects]]
+from = "/publication/parental_altruism/*"
+to = "/working-papers/parental_altruism/"
+status = 301
+
+[[redirects]]
+from = "/publication/"
+to = "/working-papers/"
+status = 301
