@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: agustin
+  theme_night: agustin
+  font: agustin
   font_size: L
 
 # SEO
@@ -21,7 +21,7 @@ marketing:
     description: 'Agustin Diaz Casanueva - Economist. Research in macroeconomics, labor economics, and family economics. PhD from University of Pennsylvania.'
     twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-LYM8JHH783'
     baidu_tongji: ''
   verification:
     google: ''

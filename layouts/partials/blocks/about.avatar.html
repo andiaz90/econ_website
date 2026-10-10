@@ -66,6 +66,10 @@
       {{ end }}
     </ul>
 
+    {{ with $person.research_statement }}
+    <p class="research-statement text-left">{{ . | markdownify }}</p>
+    {{ end }}
+
     {{ with ($block.content.text | emojify | markdownify) | default $person_page.Content }}
     <div class="bio-text mt-3 text-center text-md-left">
       {{ . }}

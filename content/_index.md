@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2026-10-10
 type: landing
 
 sections:
@@ -14,10 +14,15 @@ sections:
   - block: collection
     id: research
     content:
-      title: Working Papers
+      title: Family and Fertility
+      sort_by: Weight
+      order: asc
+      count: 0
       filters:
         folders:
           - publication
+          - workinprogress
+        tag: 'Family and Fertility'
         exclude_featured: false
     design:
       columns: '1'
@@ -25,13 +30,43 @@ sections:
 
   - block: collection
     content:
-      title: Work in Progress
+      title: Education and Human Capital
       sort_by: Weight
       order: asc
       count: 0
       filters:
         folders:
+          - publication
           - workinprogress
+        tag: 'Education and Human Capital'
+        exclude_featured: false
+    design:
+      columns: '1'
+      view: citation
+
+  - block: collection
+    content:
+      title: Macroeconomics and Labor Markets
+      sort_by: Weight
+      order: asc
+      count: 0
+      filters:
+        folders:
+          - publication
+          - workinprogress
+        tag: 'Macro and Labor Markets'
+        exclude_featured: false
+    design:
+      columns: '1'
+      view: citation
+
+  - block: collection
+    content:
+      title: Policy Papers
+      count: 0
+      filters:
+        folders:
+          - policy
         exclude_featured: false
     design:
       columns: '1'

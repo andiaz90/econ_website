@@ -27,3 +27,128 @@
     line-height: 1.7;
   }
 }
+
+
+// Research statement above the bio
+#profile .research-statement {
+  font-size: 1.05em;
+  line-height: 1.5;
+  margin-top: 1.25rem;
+  padding-left: 1rem;
+  border-left: 3px solid currentColor;
+}
+
+// Paper list: summary + thumbnail
+.pub-card {
+  margin-bottom: 1.75rem;
+}
+
+.pub-flex {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+
+.pub-text {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.pub-thumb {
+  flex: 0 0 300px;
+  max-width: 300px;
+  display: block;
+  border: 1px solid rgba(128, 128, 128, 0.3);
+  border-radius: 4px;
+  overflow: hidden;
+  background: #fff;
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+}
+
+.pub-summary {
+  margin: 0.4rem 0 0.2rem;
+  font-style: italic;
+  opacity: 0.85;
+}
+
+@media (max-width: 767px) {
+  .pub-flex {
+    flex-direction: column-reverse;
+  }
+  .pub-thumb {
+    flex-basis: auto;
+    max-width: 100%;
+    width: 100%;
+  }
+}
+
+
+// ---- Typography and spacing ----
+body {
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.01em;
+}
+
+// Tighter, more deliberate home sections
+.home-section {
+  padding-top: 2.75rem;
+  padding-bottom: 2.75rem;
+}
+
+.section-heading h1 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--primary);
+  display: inline-block;
+}
+
+// Paper titles read as links, with a calmer weight
+.view-citation > .pub-flex a:not(.btn):not(.pub-thumb) {
+  font-weight: 600;
+}
+
+.article-metadata.li-cite-author {
+  display: block;
+  margin-bottom: 0.15rem;
+  opacity: 0.8;
+}
+
+// Buttons: slimmer and consistent
+.btn-links .btn {
+  border-radius: 3px;
+  font-size: 0.8rem;
+  padding: 0.15rem 0.6rem;
+}
+
+// Abstract toggle
+details > summary {
+  color: var(--primary);
+  font-size: 0.9rem;
+}
+
+// Profile block
+#profile .portrait-title h1 {
+  font-size: 2.2rem;
+  font-weight: 700;
+}
+
+#profile .portrait-title h3 {
+  font-weight: 400;
+  font-size: 1.1rem;
+}
+
+// Thumbnail replaces the small file icon
+.pub-text .pub-icon {
+  display: none;
+}

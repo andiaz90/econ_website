@@ -1,4 +1,5 @@
 ---
+weight: 1
 title: "Cognitive Skills and the Timing of First Births"
 authors:
 - admin
@@ -32,6 +33,7 @@ summary: "Why do first births come so much earlier for low-ability women? A life
 featured: true
 
 tags:
+- Family and Fertility
 
 
 url_pdf: uploads/cog_preg.pdf

@@ -15,13 +15,14 @@ publishDate: "2025-01-01T00:00:00Z"
 publication_types: ["0"]
 
 publication: ""
-publication_short: ""
+publication_short: "Work in progress"
 
 abstract: We analyze the general equilibrium effects of human capital misallocation in Chile. First, we utilize tax and educational records to estimate the proportion of educationally mismatched individuals (high-ability individuals with low educational attainment). Second, we estimate the labor market returns on ability, education, and human capital investment. Finally, we construct and calibrate a dynastic overlapping generations model with both private and public human capital investment to decompose the causes of educational mismatch and the general equilibrium effects of changes in sorting.
 
-summary:
+summary: "What are the general equilibrium effects of high-ability individuals ending up with low educational attainment in Chile?"
 
 tags:
+- Education and Human Capital
 
 projects: []
 

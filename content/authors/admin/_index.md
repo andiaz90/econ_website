@@ -26,9 +26,11 @@ bio: I study how households make economic decisions about consumption, fertility
 
 # Interests to show in About widget
 interests:
+  - Family Economics
+  - Fertility
+  - Human Capital
   - Macroeconomics
   - Labor Economics
-  - Family Economics
 
 # Education to show in About widget
 education:
@@ -57,8 +59,6 @@ email: 'adiaz@bcentral.cl'
 highlight_name: true
 ---
 
-I am an Economist at the [Central Bank of Chile](https://www.bcentral.cl). I received my PhD in Economics from the [University of Pennsylvania](https://economics.sas.upenn.edu/).
+I am an Economist at the [Central Bank of Chile](https://www.bcentral.cl/). I received my PhD in Economics from the [University of Pennsylvania](https://economics.sas.upenn.edu/). My research uses structural life-cycle models to study how families make decisions about fertility, education, and intergenerational transfers, and what those decisions imply for inequality and the macroeconomy. I also study oil shocks and production networks in the Chilean economy, and labor market power.
 
-My research focuses on **consumption insurance**, **fertility dynamics**, and **labor market behavior**. I study how households respond to economic shocks and policy changes, with particular attention to the role of cognitive skills, financial constraints, and intergenerational transfers.
-
-  
+**Research interests:** family economics, fertility, human capital, macroeconomics, labor economics.

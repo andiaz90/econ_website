@@ -1,0 +1,19 @@
+# Custom theme: deep blue accent, light/dark
+name = "Agustin"
+
+[light]
+  primary = "#0f4c81"
+
+  menu_primary = "#fff"
+  menu_text = "#2b3a4a"
+  menu_text_active = "#0f4c81"
+  menu_title = "#1b1b1b"
+
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(246, 248, 251)"
+
+[dark]
+  primary = "#9cc9ee"
+
+  link = "#9cc9ee"
+  link_hover = "#c4e0f7"
