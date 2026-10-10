@@ -72,6 +72,18 @@ sections:
       columns: '1'
       view: citation
 
+  - block: collection
+    content:
+      title: Pre-PhD Publication
+      count: 0
+      filters:
+        folders:
+          - prephd
+        exclude_featured: false
+    design:
+      columns: '1'
+      view: citation
+
   - block: markdown
     id: teaching
     content:
