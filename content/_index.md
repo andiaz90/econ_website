@@ -89,7 +89,7 @@ sections:
     content:
       title: Teaching
       text: |
-        **Macroeconomics I** (undergraduate) — Universidad de los Andes, 2026–present.
+        **Intermediate Macroeconomics** (undergraduate) — Universidad de los Andes, 2026–present.
     design:
       columns: '1'
 ---
