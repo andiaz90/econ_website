@@ -15,7 +15,7 @@ publication_types: ["0"]
 publication: ""
 publication_short: "Work in progress"
 
-abstract: The U.S. teen birth rate fell by roughly three-quarters between its 1991 peak and the early 2020s, one of the most dramatic demographic shifts of the period. This paper asks which economic mechanisms drove the decline and how they interacted. I estimate a dynamic life-cycle model of schooling, work, marriage, and fertility separately on two cohorts of women—the NLSY79 (teens in the late 1970s and early 1980s) and the NLSY97 (teens around 2000)—that together span the bulk of the decline. Comparing the estimated model across cohorts, I decompose the change in early childbearing into the contributions of distinct economic primitives, including the returns to schooling and work, the cost and effectiveness of fertility control, schooling costs, the marriage market, and preferences for children. By isolating the primitives behind early childbearing, the analysis contributes to explaining the causes of the broader decline in fertility in the United States and elsewhere.
+abstract: The U.S. teen birth rate has fallen sharply since the early 1990s, and lower birth rates before age 20 account for a large share of the decline in total fertility over the same period. Measured by birth cohort, early first births first rose and then fell, and the underlying forces were partly offsetting. I estimate a life-cycle model of schooling, work, marriage and contraceptive use on three cohorts of women, each measured with the same surveys, and decompose the change in early childbearing into the value of avoiding a birth, the cost and efficacy of contraception, sexual exposure, abortion, the marriage market, the safety net and family background. The decomposition quantifies how much each mechanism contributed to the rise and to the fall in early childbearing.
 
 summary: "Which economic mechanisms drove the decline in U.S. teen childbearing, and how did they interact?"
 
@@ -23,6 +23,8 @@ tags:
 - Family and Fertility
 
 projects: []
+
+url_pdf: uploads/Teen_Childbearing_Draft_2026-10.pdf
 
 slides:
 ---
