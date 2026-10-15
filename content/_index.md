@@ -14,6 +14,22 @@ sections:
   - block: collection
     id: research
     content:
+      title: Macroeconomics and Labor Markets
+      sort_by: Weight
+      order: asc
+      count: 0
+      filters:
+        folders:
+          - working-papers
+          - workinprogress
+        tag: 'Macro and Labor Markets'
+        exclude_featured: false
+    design:
+      columns: '1'
+      view: citation
+
+  - block: collection
+    content:
       title: Family and Fertility
       sort_by: Weight
       order: asc
@@ -39,22 +55,6 @@ sections:
           - working-papers
           - workinprogress
         tag: 'Education and Human Capital'
-        exclude_featured: false
-    design:
-      columns: '1'
-      view: citation
-
-  - block: collection
-    content:
-      title: Macroeconomics and Labor Markets
-      sort_by: Weight
-      order: asc
-      count: 0
-      filters:
-        folders:
-          - working-papers
-          - workinprogress
-        tag: 'Macro and Labor Markets'
         exclude_featured: false
     design:
       columns: '1'
