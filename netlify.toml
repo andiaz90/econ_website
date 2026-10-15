@@ -53,3 +53,69 @@ status = 301
 from = "/publication/"
 to = "/working-papers/"
 status = 301
+
+# Old URLs still indexed by Google -> current pages (added 2026-10-15)
+[[redirects]]
+from = "/workingpapers/jmp/*"
+to = "/working-papers/jmp/"
+status = 301
+
+[[redirects]]
+from = "/workingpapers/figi/*"
+to = "/policy/figi/"
+status = 301
+
+[[redirects]]
+from = "/workingpapers/*"
+to = "/working-papers/"
+status = 301
+
+[[redirects]]
+from = "/publication/third_year_paper/*"
+to = "/working-papers/parental_altruism/"
+status = 301
+
+[[redirects]]
+from = "/workinprogress/third_year_paper/*"
+to = "/working-papers/parental_altruism/"
+status = 301
+
+[[redirects]]
+from = "/author/admin/*"
+to = "/"
+status = 301
+
+[[redirects]]
+from = "/author/agustin-diaz-casanueva/*"
+to = "/"
+status = 301
+
+[[redirects]]
+from = "/authors/admin/*"
+to = "/"
+status = 301
+
+[[redirects]]
+from = "/uploads/FIGI_Paper.pdf"
+to = "/uploads/figi.pdf"
+status = 301
+
+[[redirects]]
+from = "/uploads/preg_cog.pdf"
+to = "/uploads/cog_preg.pdf"
+status = 301
+
+[[redirects]]
+from = "/uploads/third_year_paper.pdf"
+to = "/uploads/Parental_Altruism_College_v1.pdf"
+status = 301
+
+[[redirects]]
+from = "/uploads/third_year.pdf"
+to = "/uploads/Parental_Altruism_College_v1.pdf"
+status = 301
+
+[[redirects]]
+from = "/uploads/resume.pdf"
+to = "/uploads/resume_Agustin_Diaz.pdf"
+status = 301
