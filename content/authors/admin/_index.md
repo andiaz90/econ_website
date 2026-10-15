@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Economist
+role: Senior Economist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -59,6 +59,6 @@ email: 'adiaz@bcentral.cl'
 highlight_name: true
 ---
 
-I am an Economist at the [Central Bank of Chile](https://www.bcentral.cl/). I received my PhD in Economics from the [University of Pennsylvania](https://economics.sas.upenn.edu/). My research uses structural life-cycle models to study how families make decisions about fertility, education, and intergenerational transfers, and what those decisions imply for inequality and the macroeconomy. I also study oil shocks and production networks in the Chilean economy, and labor market power.
+I am a Senior Economist at the [Central Bank of Chile](https://www.bcentral.cl/). I received my PhD in Economics from the [University of Pennsylvania](https://economics.sas.upenn.edu/). My research uses structural life-cycle models to study how families make decisions about fertility, education, and intergenerational transfers, and what those decisions imply for inequality and the macroeconomy. I also study oil shocks and production networks in the Chilean economy, and labor market power.
 
 **Research interests:** family economics, fertility, human capital, macroeconomics, labor economics.
