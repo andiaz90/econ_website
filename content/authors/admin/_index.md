@@ -38,7 +38,9 @@ education:
   - course: PhD in Economics
     institution: University of Pennsylvania
   - course: MA in Economics
-    institution: Universidad Católica de Chile
+    institution: Pontificia Universidad Católica de Chile
+  - course: BA in Business and Economics
+    institution: Pontificia Universidad Católica de Chile
 
 # Social/Academic Networking
 social:
@@ -59,6 +61,6 @@ email: 'adiaz@bcentral.cl'
 highlight_name: true
 ---
 
-I am a Senior Economist at the [Central Bank of Chile](https://www.bcentral.cl/). I received my PhD in Economics from the [University of Pennsylvania](https://economics.sas.upenn.edu/). My research uses structural life-cycle models to study how families make decisions about fertility, education, and intergenerational transfers, and what those decisions imply for inequality and the macroeconomy. I also study oil shocks and production networks in the Chilean economy, labor market power, and how access to financing, such as factoring, affects firm dynamics and the transmission of monetary policy.
+I am a Senior Economist at the [Central Bank of Chile](https://www.bcentral.cl/). I received my PhD in Economics from the [University of Pennsylvania](https://economics.sas.upenn.edu/), and my MA in Economics and BA in Business and Economics from the Pontificia Universidad Católica de Chile. My research uses structural life-cycle models to study how families make decisions about fertility, education, and intergenerational transfers, and what those decisions imply for inequality and the macroeconomy. I also study oil shocks and production networks in the Chilean economy, labor market power, and how access to financing, such as factoring, affects firm dynamics and the transmission of monetary policy.
 
 **Research interests:** family economics, fertility, human capital, macroeconomics, labor economics.
