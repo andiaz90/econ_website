@@ -17,9 +17,9 @@ publication: ""
 publication_short: "Work in progress"
 
 abstract: |
-  We study how oil price shocks propagate across sectors in a small open economy. Using Chilean data, we document the response of sectoral prices to oil price shocks and relate it to sectors' direct and indirect exposure to oil through input–output linkages. We then build and estimate a multi-sector New Keynesian model with the Chilean input–output structure, in which households also buy fuel directly, to ask what production networks add to the transmission of oil shocks to core and headline inflation and to activity, and how much of the amplification comes from intermediate input intensity rather than from the network's topology.
+  We study how oil price shocks propagate across sectors in a small open economy and what this implies for monetary policy. Using Chilean data, with oil supply news shocks as instruments, we estimate how consumer prices respond to oil price shocks and separate the pass-through of oil costs that sectors pay directly from that of oil costs embedded in their intermediate inputs. We then estimate a twelve-sector New Keynesian model of Chile with the national input–output structure, in which households also buy fuel directly and a stabilization mechanism (MEPCO) smooths retail fuel prices. The model separates the amplification that comes from intermediate input intensity from the amplification that comes from inter-sectoral linkages. Because fuel prices move first and core prices keep rising for two years, a policy rule that weights core inflation tightens less on impact than one that targets headline inflation.
 
-summary: "What do input–output linkages add to the way oil shocks move prices and activity in a small open economy?"
+summary: "How do oil shocks spread through input–output linkages in a small open economy, and what does this mean for monetary policy?"
 
 tags:
 - Macro and Labor Markets
